@@ -1,127 +1,63 @@
-<!-- Header Banner with Animation -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF00,100:006400&height=200&section=header&text=TUSHAL%20BALDANIYA&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Specialist%20|%20Ethical%20Hacker%20|%20Security%20Researcher&descSize=18&descAlignY=55"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=200&section=header&text=TUSHAL%20BALDANIYA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker%20%7C%20Security%20Researcher&descSize=18&descAlignY=55"/>
 
-<!-- Animated Intro -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🔐+Securing+the+Digital+World+One+Vulnerability+at+a+Time;🎯+VAPT+Specialist+|+Web+App+Security+|+Network+Pentester;💻+Building+Secure+Applications+%26+Breaking+Insecure+Ones;🏴‍☠️+Capture+The+Flag+Player+|+Bug+Bounty+Hunter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Securing+Digital+Infrastructure...;Penetration+Testing+Expert...;Building+Secure+Applications...)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- Quick Stats Bar -->
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Tushal12e&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/Tushal12e?style=for-the-badge&logo=github&color=00FF00&labelColor=0D1117)](https://github.com/Tushal12e?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/Tushal12e?style=for-the-badge&logo=github&color=00FF00&labelColor=0D1117)](https://github.com/Tushal12e)
-  
 </div>
 
 ---
 
-## 🎯 `$ whoami`
+## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%">
-
-```bash
-┌──(tushal㉿kali)-[~]
-└─$ cat /etc/hacker.conf
-
-╔══════════════════════════════════════════╗
-║  ██████╗ ██████╗  ██████╗ ███████╗██╗██╗ ║
-║  ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║ ║
-║  ██████╔╝██████╔╝██║   ██║█████╗  ██║██║ ║
-║  ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║ ║
-║  ██║     ██║  ██║╚██████╔╝██║     ██║███║║
-║  ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══╝║
-╚══════════════════════════════════════════╝
-
-> Name     : TUSHAL BALDANIYA
-> Alias    : Tushal12e
-> Role     : Cybersecurity Student & Ethical Hacker
-> Focus    : VAPT | Web Security | Network Pentesting
-> Location : India 🇮🇳
-> Status   : 🟢 Available for Security Projects
-> Motto    : "Break it to Secure it"
+```yaml
+name: Tushal Baldaniya
+title: Cybersecurity Student & Ethical Hacker
+location: India 🇮🇳
+focus:
+  - Vulnerability Assessment & Penetration Testing (VAPT)
+  - Web Application Security
+  - Network Security & Infrastructure
+  - Secure Software Development
+currently_learning:
+  - Certified Ethical Hacker (CEH)
+  - Offensive Security (OSCP)
+  - Bug Bounty Hunting
+open_for:
+  - Cybersecurity Internships
+  - Security Research Collaborations
+  - CTF Challenges
 ```
 
-</td>
-<td width="50%">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
-
-### 🔥 Current Focus
-- 🎯 Advanced Web Application Pentesting
-- 🛡️ OWASP Top 10 Vulnerabilities
-- 🔐 Cryptography & Secure Coding
-- 🏴‍☠️ CTF Competitions
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tushal12e&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ⚔️ Security Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 🛡️ Offensive Security Tools
+### Security & Pentesting
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,powershell&theme=dark" />
+### Development & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-1DE9B6?style=for-the-badge&logo=parrotlinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=linux&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=database&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-7D4698?style=for-the-badge&logo=hackaday&logoColor=white)
-![John](https://img.shields.io/badge/John_The_Ripper-CC0000?style=for-the-badge&logo=linux&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-3776AB?style=for-the-badge&logo=hashcat&logoColor=white)
-
-### 🖥️ Infrastructure & Administration
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort_IDS-F7302D?style=for-the-badge&logo=cisco&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-
-### 💻 Development & Scripting
-
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,php,html,css,mysql,git,docker,vscode&theme=dark" />
-
-### 🌐 Security Platforms
-
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![PentesterLab](https://img.shields.io/badge/PentesterLab-000000?style=for-the-badge&logo=linux&logoColor=white)
+### Infrastructure & Tools
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -130,35 +66,21 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tushal12e&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushal12e&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6600&currStreakLabel=00FF00" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tushal12e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushal12e&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF"/>
 </div>
 
 <div align="center">
-  
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushal12e&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=10" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushal12e&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" width="95%"/>
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 Achievements
 
 <div align="center">
   
-[![Tushal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushal12e&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff00&hide_border=true&custom_title=📈%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Tushal12e/Tushal12e/output/github-contribution-grid-snake-dark.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tushal12e&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -168,166 +90,35 @@
 
 <div align="center">
 
-[![ZeroVault Card](https://github-readme-stats.vercel.app/api/pin/?username=Tushal12e&repo=ZeroVault&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)](https://github.com/Tushal12e/ZeroVault)
-
-</div>
-
-<div align="center">
-
-| 🔥 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Status |
-|:-----------|:---------------|:--------------|:----------|
-| 🔒 **ZeroVault** | Zero-Knowledge Encrypted File Sharing Platform | `Node.js` `AES-256` `Express` | [![Live](https://img.shields.io/badge/🟢-LIVE-00FF00?style=flat-square)](https://github.com/Tushal12e/ZeroVault) |
-| 🌐 **Network Mapper** | Advanced Network Topology Discovery Tool | `Node.js` `Nmap` `D3.js` | [![Dev](https://img.shields.io/badge/🟡-DEV-yellow?style=flat-square)](https://github.com/Tushal12e) |
-| 🛡️ **CySafe** | Comprehensive Cybersecurity Awareness Platform | `React` `Node.js` `MongoDB` | [![Dev](https://img.shields.io/badge/🟡-DEV-yellow?style=flat-square)](https://github.com/Tushal12e) |
-| 🔐 **VEILX** | Advanced Steganography & Encryption Tool | `PHP` `JavaScript` `MySQL` | [![Done](https://img.shields.io/badge/🟢-DONE-00FF00?style=flat-square)](https://github.com/Tushal12e) |
+| Project | Description | Technologies |
+|:--------|:------------|:-------------|
+| [**🔐 ZeroVault**](https://github.com/Tushal12e/ZeroVault) | Zero-Knowledge Encrypted File Sharing Platform | Node.js, AES-256, Express |
+| [**🌐 Network Mapper**](https://github.com/Tushal12e) | Network Topology Discovery & Visualization Tool | Node.js, Nmap, D3.js |
+| [**🛡️ CySafe**](https://github.com/Tushal12e) | Comprehensive Cybersecurity Awareness Platform | React, Node.js, MongoDB |
 
 </div>
 
 ---
 
-## 🎯 Expertise Matrix
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│                           🎯 SECURITY EXPERTISE MATRIX 🎯                         │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                  │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ Web Application Security         ████████████░░  85%  │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ Network Penetration Testing      ███████████░░░  80%  │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ Vulnerability Assessment         ██████████░░░░  75%  │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ Windows Server Administration    █████████░░░░░  70%  │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ Secure Code Review               ████████░░░░░░  65%  │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ Cryptography                     ███████░░░░░░░  60%  │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ Malware Analysis                 ██████░░░░░░░░  50%  │
-│  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ Digital Forensics                █████░░░░░░░░░  45%  │
-│                                                                                  │
-└──────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📚 Learning Journey
+## 🐍 Contribution Graph
 
 <div align="center">
-
-### 🎓 Certifications In Progress
-
-![CEH](https://img.shields.io/badge/🎯_CEH-Certified_Ethical_Hacker-FF0000?style=for-the-badge&labelColor=1a1a1a)
-![OSCP](https://img.shields.io/badge/🎯_OSCP-Offensive_Security-FF6600?style=for-the-badge&labelColor=1a1a1a)
-![eJPT](https://img.shields.io/badge/🎯_eJPT-eLearnSecurity-00A4EF?style=for-the-badge&labelColor=1a1a1a)
-![CompTIA](https://img.shields.io/badge/🎯_CompTIA-Security+-C8202F?style=for-the-badge&labelColor=1a1a1a)
-
-### 📖 Currently Exploring
-
-![Bug Bounty](https://img.shields.io/badge/🔍_Bug_Bounty-Hunting-FFD700?style=for-the-badge&labelColor=1a1a1a)
-![Cloud Security](https://img.shields.io/badge/☁️_Cloud_Security-AWS/Azure-00D4FF?style=for-the-badge&labelColor=1a1a1a)
-![Red Teaming](https://img.shields.io/badge/🔴_Red_Teaming-Operations-FF0000?style=for-the-badge&labelColor=1a1a1a)
-![SIEM](https://img.shields.io/badge/📊_SIEM-Security_Monitoring-9400D3?style=for-the-badge&labelColor=1a1a1a)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tushal12e/Tushal12e/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tushal12e/Tushal12e/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Tushal12e/Tushal12e/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
-## 💡 Hacker Wisdom
+## 📫 Connect With Me
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║        "The quieter you become, the more you are able to hear."              ║
-║                                                    - Kali Linux              ║
-║                                                                              ║
-║        "There is no patch for human stupidity."                              ║
-║                                                    - Kevin Mitnick           ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
+  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tushal12e)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushal-baldaniya)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tushal12e)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tushalbaldaniya@gmail.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/Tushal12e)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Tushal12e)
-
-</div>
-
----
-
-## 🔥 Profile Summary
-
-<div align="center">
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-   ████████╗██╗   ██╗███████╗██╗  ██╗ █████╗ ██╗     
-   ╚══██╔══╝██║   ██║██╔════╝██║  ██║██╔══██╗██║     
-      ██║   ██║   ██║███████╗███████║███████║██║     
-      ██║   ██║   ██║╚════██║██╔══██║██╔══██║██║     
-      ██║   ╚██████╔╝███████║██║  ██║██║  ██║███████╗
-      ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-"""
-
-class CyberSecurityExpert:
-    def __init__(self):
-        self.name = "Tushal Baldaniya"
-        self.role = "Cybersecurity Student & Ethical Hacker"
-        self.location = "India 🇮🇳"
-        
-        self.skills = {
-            "offensive": ["VAPT", "Web App Security", "Network Pentesting", "OSINT"],
-            "defensive": ["SIEM", "IDS/IPS", "Incident Response", "Forensics"],
-            "development": ["Python", "JavaScript", "Bash", "PHP"]
-        }
-        
-        self.platforms = ["HackTheBox", "TryHackMe", "PortSwigger", "PentesterLab"]
-        self.current_focus = "Advanced Web Application Security & Bug Bounty"
-    
-    def __str__(self):
-        return f"👋 Hi, I'm {self.name} - {self.role}"
-    
-    def hack_ethically(self):
-        return "🔐 Breaking systems to make them stronger!"
-    
-    def collaborate(self):
-        print("💬 Let's connect for security projects and CTF challenges!")
-        print("📫 Open for internship opportunities in Cybersecurity!")
-        return "🤝 Always happy to help and learn!"
-
-if __name__ == "__main__":
-    tushal = CyberSecurityExpert()
-    print(tushal)
-    print(tushal.hack_ethically())
-    tushal.collaborate()
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-🔒 Security Research    ████████████░░░░░░  50%
-💻 Coding & Scripting   ██████████░░░░░░░░  35%
-📚 Learning & CTF       ████░░░░░░░░░░░░░░  10%
-🔧 Other Activities     █░░░░░░░░░░░░░░░░░   5%
-```
-<!--END_SECTION:waka-->
 
 </div>
 
@@ -335,10 +126,11 @@ if __name__ == "__main__":
 
 <div align="center">
   
-### ⚡ "Hack the Planet!" ⚡
+![Profile Views](https://komarev.com/ghpvc/?username=Tushal12e&color=00D4FF&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Tushal12e?style=flat-square&logo=github&label=Followers&color=00D4FF)](https://github.com/Tushal12e?tab=followers)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:006400&height=120&section=footer"/>
+*"The quieter you become, the more you are able to hear."* — Kali Linux
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=120&section=footer"/>
